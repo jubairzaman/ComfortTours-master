@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1069255779475",
+    "firebase_url": "https://ctfirebaseproject-e6004.firebaseio.com",
+    "project_id": "ctfirebaseproject-e6004",
+    "storage_bucket": "ctfirebaseproject-e6004.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069255779475:android:fa5ed343494e35d211d966",
+        "android_client_info": {
+          "package_name": "org.bloodbankbd.comforttours"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069255779475-nrsrvcuecb7njs8tl27l18gfaa1saoto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.bloodbankbd.comforttours",
+            "certificate_hash": "845ea77f290060f9e50b7100ff56de88424f95e5"
+          }
+        },
+        {
+          "client_id": "1069255779475-j9vs0l6ha6okkie339knubep9a1n9512.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApFqidnCOFCm5afcc2qBnKZ_VbrZ1kTYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069255779475-j9vs0l6ha6okkie339knubep9a1n9512.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

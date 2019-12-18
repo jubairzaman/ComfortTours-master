@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/australia"
+        android:title="Australia" />
+    <item android:id="@+id/germany"
+        android:title="Germany"/>
+    <item android:id="@+id/italy"
+        android:title="Italy"/>
+    <item android:id="@+id/france"
+        android:title="France"/>
+    <item android:id="@+id/canada"
+        android:title="Canada"/>
+    <item android:id="@+id/Spain"
+        android:title="Spain"/>
+    <item android:id="@+id/switzerland"
+        android:title="Switzerland"/>
+    <item android:id="@+id/turkey"
+        android:title="Turkey"/>
+    <item android:id="@+id/usa"
+        android:title="USA"/>
+    <item android:id="@+id/uk"
+        android:title="Uk"/>
+    <item android:id="@+id/dubai"
+        android:title="Dubai"/>
+    <item android:id="@+id/egypt"
+        android:title="Egypt"/>
+    <item android:id="@+id/brazil"
+        android:title="Brazil"/>
+    <item android:id="@+id/hongkong"
+        android:title="Hongkong"/>
+    <item android:id="@+id/japan"
+        android:title="Japan"/>
+    <item android:id="@+id/malaysia"
+        android:title="Malaysia"/>
+    <item android:id="@+id/maxico"
+        android:title="Maxico"/>
+    <item android:id="@+id/philipine"
+        android:title="Philipine"/>
+    <item android:id="@+id/morocco"
+        android:title="Morocco"/>
+    <item android:id="@+id/russia"
+        android:title="Russia"/>
+    <item android:id="@+id/singapore"
+        android:title="Singapore"/>
+    <item android:id="@+id/southKoria"
+        android:title="South-korea"/>
+    <item android:id="@+id/thiland"
+        android:title="Thiland"/>
+
+
+
+</menu>
