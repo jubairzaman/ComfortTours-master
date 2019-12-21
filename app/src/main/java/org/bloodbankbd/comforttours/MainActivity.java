@@ -115,7 +115,7 @@ public class MainActivity extends AppCompatActivity implements android.support.v
             case R.id.canada:
 
                 return true;
-            case R.id.Spain:
+            case R.id.spain:
 
                 return true;
             case R.id.switzerland:
@@ -151,7 +151,7 @@ public class MainActivity extends AppCompatActivity implements android.support.v
             case R.id.maxico:
 
                 return true;
-            case R.id.philipine:
+            case R.id.phillipine:
 
                 return true;
             case R.id.morocco:

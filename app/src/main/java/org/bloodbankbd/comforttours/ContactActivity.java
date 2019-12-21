@@ -1,8 +1,8 @@
 package org.bloodbankbd.comforttours;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -19,49 +19,63 @@ public class ContactActivity extends AppCompatActivity {
     private EditText country;
     private EditText occupation;
 
-    Toolbar toolbar;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_contact);
-
-        //Toolbar
-        //Toolbar
-        toolbar = (Toolbar) findViewById(R.id.toolbar1);
-        setSupportActionBar(toolbar);
-        toolbar.setTitle("Australia");
-
-
         requestButton = findViewById(R.id.requestButton);
+
+
+        name = findViewById(R.id.name);
+        email = findViewById(R.id.email);
+        phone = findViewById(R.id.phone);
+        country = findViewById(R.id.country);
+        occupation = findViewById(R.id.occupation);
+
 
         requestButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+
+
+
                 new Thread(new Runnable() {
 
                     public void run() {
 
                         try {
 
+
                             GMailSender sender = new GMailSender(
-                                    "ctourapp@gmail.com",
-                                    "CtCt123123");
-                            String nameString = "Name: "+name.getText().toString();
-                            String emailString = "Email: "+email.getText().toString();
-                            String phoneString = "Phone: "+phone.getText().toString();
-                            String countryString = "Country: "+country.getText().toString();
-                            String occupationString = "occupation: "+occupation.getText().toString();
 
-                            String Message = nameString+ emailString+ phoneString+countryString+occupationString;
+                                    "techicsdigital@gmail.com",
 
-                            //sender.addAttachment(Environment.getExternalStorageDirectory().getPath()+"/image.jpg");
+                                    "techics1234$");
 
-                            sender.sendMail("Good News", Message,
 
-                                    "ctourapp@gmail.com",
+
+
+
+                            String nameString = " Name : "+name.getText().toString();
+                            String emailString = " Email : "+email.getText().toString();
+                            String phoneString = " Phone : "+phone.getText().toString();
+                            String countryString = " Country : "+country.getText().toString();
+                            String occupationString = " occupation : "+occupation.getText().toString();
+
+                            String message = nameString+ emailString+ phoneString+countryString+occupationString;
+
+                            sender.sendMail("Good News form App", message,
+
+                                    "techicsdigital@gmail.com",
 
                                     "jubair.zaman01@gmail.com");
+
+
+
+
+
+
+
 
 
                         } catch (Exception e) {
@@ -75,6 +89,15 @@ public class ContactActivity extends AppCompatActivity {
                     }
 
                 }).start();
+
+
+                Intent intent = new Intent(ContactActivity.this,MainActivity.class);
+
+                startActivity(intent);
+
+
+
+
             }
         });
     }

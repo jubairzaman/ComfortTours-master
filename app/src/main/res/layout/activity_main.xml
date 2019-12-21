@@ -24,68 +24,82 @@
         android:id="@+id/viewflipper"
         />
 
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="100dp"
+        android:layout_height="60dp"
         android:layout_below="@+id/viewflipper"
-        android:id="@+id/ll">
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginStart="50dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="2dp"
+        android:background="@drawable/custom_button"
+        android:text="Home"
+        android:textAllCaps="false"
+        android:textColor="@color/blue" />
 
-        <Button
-            android:id="@+id/btn1"
-            android:layout_width="100dp"
-            android:layout_height="60dp"
-            android:background="@drawable/custom_button"
-            android:text="Home"
-            android:layout_margin="2dp"
-            android:textAllCaps="false"
-            android:textColor="@color/blue" />
+    <Button
+        android:id="@+id/contactBtn"
+        android:layout_width="100dp"
+        android:layout_height="60dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="49dp"
+        android:layout_marginRight="49dp"
+        android:background="@drawable/custom_button"
+        android:text="Home Service"
+        android:layout_marginTop="10dp"
+        android:layout_below="@id/btn3"
+        android:textAllCaps="false"
+        android:textColor="@color/blue" />
 
-        <Button
-            android:id="@+id/contactBtn"
-            android:layout_width="100dp"
-            android:layout_height="60dp"
-            android:background="@drawable/custom_button"
-            android:text="Contact"
-            android:layout_margin="2dp"
-            android:textAllCaps="false"
-            android:textColor="@color/blue" />
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="100dp"
+        android:layout_height="60dp"
+        android:layout_below="@+id/btn1"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginStart="50dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="2dp"
+        android:background="@drawable/custom_button"
+        android:onClick="showpopup"
+        android:text="Visa"
+        android:textAllCaps="false"
+        android:textColor="@color/blue" />
 
-        <Button
-            android:id="@+id/btn2"
-            android:layout_width="100dp"
-            android:layout_height="60dp"
-            android:background="@drawable/custom_button"
-            android:onClick="showpopup"
-            android:text="Visa"
-            android:layout_margin="2dp"
-            android:textAllCaps="false"
-            android:textColor="@color/blue" />
+    <Button
+        android:id="@+id/btn3"
+        android:layout_width="100dp"
+        android:layout_height="60dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="50dp"
+        android:layout_marginRight="49dp"
+        android:background="@drawable/custom_button"
+        android:onClick="open"
+        android:text="Air Ticket"
 
-        <Button
-            android:id="@+id/btn3"
-            android:layout_width="100dp"
-            android:layout_margin="2dp"
-            android:layout_height="60dp"
-            android:background="@drawable/custom_button"
-            android:onClick="open"
-            android:text="Air Ticket"
-            android:textAllCaps="false"
-            android:textColor="@color/blue" />
-
-    </LinearLayout>
-
-
+        android:layout_below="@+id/viewflipper"
+        android:layout_marginTop="10dp"
+        android:textAllCaps="false"
+        android:textColor="@color/blue" />
 
 
     <TextView
         android:id="@+id/ht"
-        android:layout_below="@+id/ll"
-        android:gravity="center"
-        android:layout_marginTop="20dp"
-        android:textSize="17dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="HOLYDAY TOUR"/>
+        android:layout_below="@+id/viewflipper"
+        android:layout_marginTop="166dp"
+        android:gravity="center"
+        android:text="HOLYDAY TOUR"
+        android:textSize="17dp" />
     <TextView
         android:id="@+id/hp"
         android:layout_width="match_parent"
