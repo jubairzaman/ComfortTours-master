@@ -94,6 +94,7 @@ public class ContactActivity extends AppCompatActivity {
                 Intent intent = new Intent(ContactActivity.this,MainActivity.class);
 
                 startActivity(intent);
+                Toast.makeText(getApplicationContext(),"Thank You",Toast.LENGTH_LONG).show();
 
 
 

@@ -5,8 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/bg1"
-    tools:context=".brazil">
-
+    tools:context=".cambodia">
 
     <android.support.v7.widget.Toolbar
         android:id="@+id/toolbar1"
@@ -20,8 +19,8 @@
         android:id="@+id/name"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Brazil"
-        android:textSize="30dp"
+        android:text="Cambodia"
+        android:textSize="28dp"
         android:layout_marginLeft="15dp"
         android:layout_marginTop="80dp"
         android:textColor="@color/black"
@@ -48,7 +47,7 @@
         android:layout_below="@+id/name"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Embassy fess 13,000/- \nOur services charge 6,000"
+        android:text="Our Service charge and visa fee: 3800 BDT"
         android:textSize="18dp"
         android:layout_marginLeft="15dp"
         android:layout_marginTop="35dp"
@@ -60,12 +59,12 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/price"
-        android:layout_marginTop="30dp"
+        android:layout_marginTop="100dp"
         >
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/brazil_Dtls"
+            android:text="1. Passport copy\n2. Visiting card\n3. Pic"
             android:textSize="15dp"
             android:textColor="@color/black"
             android:layout_marginLeft="15dp"
@@ -78,9 +77,4 @@
 
 
 
-
-
 </RelativeLayout>
-
-
-

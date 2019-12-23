@@ -3,9 +3,10 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
     android:background="@drawable/bg1"
-    tools:context=".brazil">
+    android:layout_height="match_parent"
+    tools:context=".canada">
+
 
 
     <android.support.v7.widget.Toolbar
@@ -20,7 +21,7 @@
         android:id="@+id/name"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Brazil"
+        android:text="Canada"
         android:textSize="30dp"
         android:layout_marginLeft="15dp"
         android:layout_marginTop="80dp"
@@ -48,7 +49,7 @@
         android:layout_below="@+id/name"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Embassy fess 13,000/- \nOur services charge 6,000"
+        android:text="1. Embassy fess 11,000/-\n2. Our services charge 5,000/-"
         android:textSize="18dp"
         android:layout_marginLeft="15dp"
         android:layout_marginTop="35dp"
@@ -65,7 +66,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/brazil_Dtls"
+            android:text="@string/dtls"
             android:textSize="15dp"
             android:textColor="@color/black"
             android:layout_marginLeft="15dp"
@@ -78,9 +79,4 @@
 
 
 
-
-
 </RelativeLayout>
-
-
-

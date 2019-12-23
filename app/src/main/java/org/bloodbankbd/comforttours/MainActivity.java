@@ -113,7 +113,8 @@ public class MainActivity extends AppCompatActivity implements android.support.v
                 Toast.makeText(this,"France",Toast.LENGTH_SHORT).show();
                 return true;
             case R.id.canada:
-
+                Intent canint = new Intent(MainActivity.this ,canada.class);
+                startActivity(canint);
                 return true;
             case R.id.spain:
 
@@ -137,7 +138,8 @@ public class MainActivity extends AppCompatActivity implements android.support.v
 
                 return true;
             case R.id.brazil:
-
+                Intent braint = new Intent(MainActivity.this,brazil.class);
+                startActivity(braint);
                 return true;
             case R.id.hongkong:
 
@@ -168,6 +170,22 @@ public class MainActivity extends AppCompatActivity implements android.support.v
                 return true;
             case R.id.thiland:
 
+                return true;
+            case R.id.bhutan:
+                Intent bhuint = new Intent(MainActivity.this ,bhutan.class);
+                startActivity(bhuint);
+                return true;
+            case R.id.brunai:
+                Intent brunint = new Intent(MainActivity.this , brunai.class);
+                startActivity(brunint);
+                return true;
+            case R.id.cambodia:
+                Intent camint = new Intent(MainActivity.this,cambodia.class);
+                startActivity(camint);
+                return true;
+            case R.id.china:
+                Intent chiint = new Intent(MainActivity.this,china.class);
+                startActivity(chiint);
                 return true;
 
             default:

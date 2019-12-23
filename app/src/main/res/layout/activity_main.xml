@@ -22,6 +22,7 @@
         android:layout_height="175dp"
         android:layout_centerHorizontal="true"
         android:id="@+id/viewflipper"
+
         />
 
 
@@ -38,6 +39,7 @@
         android:layout_marginBottom="2dp"
         android:background="@drawable/custom_button"
         android:text="Home"
+        android:textSize="10dp"
         android:textAllCaps="false"
         android:textColor="@color/blue" />
 
@@ -51,6 +53,7 @@
         android:layout_marginRight="49dp"
         android:background="@drawable/custom_button"
         android:text="Home Service"
+        android:textSize="10dp"
         android:layout_marginTop="10dp"
         android:layout_below="@id/btn3"
         android:textAllCaps="false"
@@ -70,6 +73,7 @@
         android:background="@drawable/custom_button"
         android:onClick="showpopup"
         android:text="Visa"
+        android:textSize="10dp"
         android:textAllCaps="false"
         android:textColor="@color/blue" />
 
@@ -84,7 +88,7 @@
         android:background="@drawable/custom_button"
         android:onClick="open"
         android:text="Air Ticket"
-
+        android:textSize="10dp"
         android:layout_below="@+id/viewflipper"
         android:layout_marginTop="10dp"
         android:textAllCaps="false"
