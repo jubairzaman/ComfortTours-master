@@ -1,6 +1,7 @@
 package org.bloodbankbd.comforttours;
 
 import android.content.Intent;
+import android.net.MailTo;
 import android.os.Environment;
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
@@ -104,13 +105,16 @@ public class MainActivity extends AppCompatActivity implements android.support.v
                 startActivity(intent);
                 return true;
             case R.id.germany:
-                Toast.makeText(this,"Germany",Toast.LENGTH_SHORT).show();
+                Intent gerint = new Intent(MainActivity.this ,germany.class);
+                startActivity(gerint);
                 return true;
             case R.id.italy:
-                Toast.makeText(this,"Italy",Toast.LENGTH_SHORT).show();
+                Intent iintent = new Intent( MainActivity.this,Italy.class);
+                startActivity(iintent);
                 return true;
             case R.id.france:
-                Toast.makeText(this,"France",Toast.LENGTH_SHORT).show();
+                Intent fraint = new Intent(MainActivity.this ,france.class);
+                startActivity(fraint);
                 return true;
             case R.id.canada:
                 Intent canint = new Intent(MainActivity.this ,canada.class);
@@ -132,22 +136,28 @@ public class MainActivity extends AppCompatActivity implements android.support.v
 
                 return true;
             case R.id.dubai:
-
+                Intent dubint = new Intent(MainActivity.this,dubai.class);
+                startActivity(dubint);
                 return true;
             case R.id.egypt:
-
+                Intent egint = new Intent(MainActivity.this,egypt.class);
+                startActivity(egint);
                 return true;
             case R.id.brazil:
                 Intent braint = new Intent(MainActivity.this,brazil.class);
                 startActivity(braint);
                 return true;
             case R.id.hongkong:
-
+                Intent hongint = new Intent(MainActivity.this,hongkong.class);
+                startActivity(hongint);
                 return true;
             case R.id.japan:
-
+                Intent japint = new Intent(MainActivity.this,japan.class);
+                startActivity(japint);
                 return true;
             case R.id.malaysia:
+                Intent malint = new Intent(MainActivity.this,malaysia.class);
+                startActivity(malint);
 
                 return true;
             case R.id.maxico:
@@ -187,7 +197,14 @@ public class MainActivity extends AppCompatActivity implements android.support.v
                 Intent chiint = new Intent(MainActivity.this,china.class);
                 startActivity(chiint);
                 return true;
-
+            case R.id.indonesia:
+                Intent indint = new Intent(MainActivity.this,indonesia.class);
+                startActivity(indint);
+                return true;
+            case R.id.india:
+                Intent indiint = new Intent(MainActivity.this,India.class);
+                startActivity(indiint);
+                return true;
             default:
                 return false;
         }
