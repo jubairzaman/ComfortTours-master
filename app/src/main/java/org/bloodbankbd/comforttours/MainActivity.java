@@ -120,20 +120,29 @@ public class MainActivity extends AppCompatActivity implements android.support.v
                 Intent canint = new Intent(MainActivity.this ,canada.class);
                 startActivity(canint);
                 return true;
+            case R.id.newzealand:
+                Intent newint = new Intent(MainActivity.this ,Newzealand.class);
+                startActivity(newint);
+                return true;
             case R.id.spain:
-
+                Intent spnint = new Intent(MainActivity.this ,spain.class);
+                startActivity(spnint);
                 return true;
             case R.id.switzerland:
-
+                Intent stzint = new Intent(MainActivity.this ,switzerland.class);
+                startActivity(stzint);
                 return true;
             case R.id.turkey:
-
+                Intent TURint = new Intent(MainActivity.this ,turkey.class);
+                startActivity(TURint);
                 return true;
             case R.id.usa:
-
+                Intent usa = new Intent(MainActivity.this ,USA.class);
+                startActivity(usa);
                 return true;
             case R.id.uk:
-
+                Intent uk = new Intent(MainActivity.this ,uk.class);
+                startActivity(uk);
                 return true;
             case R.id.dubai:
                 Intent dubint = new Intent(MainActivity.this,dubai.class);
@@ -161,25 +170,37 @@ public class MainActivity extends AppCompatActivity implements android.support.v
 
                 return true;
             case R.id.maxico:
-
+                Intent maxint = new Intent(MainActivity.this,maxico.class);
+                startActivity(maxint);
                 return true;
             case R.id.phillipine:
+                Intent phiint = new Intent(MainActivity.this,phillipine.class);
+                startActivity(phiint);
 
                 return true;
             case R.id.morocco:
-
+                Intent morint = new Intent(MainActivity.this,morocco.class);
+                startActivity(morint);
+                return true;
+            case R.id.nepal:
+                Intent nepint = new Intent(MainActivity.this,nepal.class);
+                startActivity(nepint);
                 return true;
             case R.id.russia:
-
+                Intent rasint = new Intent(MainActivity.this ,russia.class);
+                startActivity(rasint);
                 return true;
             case R.id.singapore:
-
+                Intent singint = new Intent(MainActivity.this ,singapore.class);
+                startActivity(singint);
                 return true;
             case R.id.southKoria:
-
+                Intent skint = new Intent(MainActivity.this ,southkorea.class);
+                startActivity(skint);
                 return true;
             case R.id.thiland:
-
+                Intent thiint = new Intent(MainActivity.this ,thailand.class);
+                startActivity(thiint);
                 return true;
             case R.id.bhutan:
                 Intent bhuint = new Intent(MainActivity.this ,bhutan.class);
@@ -204,6 +225,14 @@ public class MainActivity extends AppCompatActivity implements android.support.v
             case R.id.india:
                 Intent indiint = new Intent(MainActivity.this,India.class);
                 startActivity(indiint);
+                return true;
+            case R.id.mayanmar:
+                Intent mayint = new Intent(MainActivity.this,mayanmar.class);
+                startActivity(mayint);
+                return true;
+            case R.id.vietnam:
+                Intent vit = new Intent(MainActivity.this,vietnam.class);
+                startActivity(vit);
                 return true;
             default:
                 return false;

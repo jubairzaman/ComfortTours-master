@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg1"
+    tools:context=".vietnam">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/blue"
+        android:minHeight="?attr/actionBarSize"
+        app:titleTextColor="@color/white" />
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Vietnam"
+        android:textSize="30dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="80dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        />
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="23dp"
+        android:layout_below="@+id/toolbar1"
+        android:layout_alignEnd="@+id/toolbar1"
+        android:layout_alignRight="@+id/toolbar1"
+        android:layout_marginEnd="15dp"
+        android:layout_marginRight="24dp"
+        android:layout_marginBottom="109dp"
+        android:text="Place Order"
+        android:onClick="click"
+        android:background="@drawable/custom_button2"
+        android:textAllCaps="false" />
+
+    <TextView
+        android:id="@+id/price"
+        android:layout_below="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Only approval price: 3500 BDT\nSticker visa: 9200 BDT"
+        android:textSize="18dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="35dp"
+        android:textStyle="bold"
+
+        />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/price"
+        android:layout_marginTop="80dp"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/vietnam"
+            android:textSize="15dp"
+            android:textColor="@color/black"
+            android:layout_marginLeft="15dp"
+
+            />
+
+
+    </ScrollView>
+
+
+
+
+</RelativeLayout>
