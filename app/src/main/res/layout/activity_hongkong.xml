@@ -48,8 +48,10 @@
         android:layout_below="@+id/name"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Embassy Fee + our service charge: 10000 BDT"
-        android:textSize="18dp"
+        android:text="Embassy Fee + our service charge: 10000 BDT\nProcessing time: 45 Days.\n
+If you have visited more then 10 Countries, then You can get Hong Kong Visa within
+5 Working Days from China Embassy.\nHongkong Confirm Visa From Chines Embassy\nMinimum 10 Countries Visited \nBDT 50,000 /=\nProcessing Time 7 Working Days"
+        android:textSize="12dp"
         android:layout_marginLeft="15dp"
         android:layout_marginTop="35dp"
         android:textStyle="bold"
@@ -60,12 +62,12 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/price"
-        android:layout_marginTop="80dp"
+        android:layout_marginTop="115dp"
         >
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/dtls"
+            android:text="@string/hongkong"
             android:textSize="15dp"
             android:textColor="@color/black"
             android:layout_marginLeft="15dp"

@@ -47,7 +47,7 @@
         android:layout_below="@+id/name"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="1. Embassy fess 13,600/-\n2. Our services charge 5,000/-"
+        android:text="1. Embassy fess 13,600/-\n2. Our services charge 3,000/-"
         android:textSize="18dp"
         android:layout_marginLeft="15dp"
         android:layout_marginTop="35dp"
@@ -59,12 +59,12 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/price"
-        android:layout_marginTop="80dp"
+        android:layout_marginTop="96dp"
         >
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/dtls"
+            android:text="@string/usa"
             android:textSize="15dp"
             android:textColor="@color/black"
             android:layout_marginLeft="15dp"

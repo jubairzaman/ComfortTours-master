@@ -47,7 +47,7 @@
         android:layout_below="@+id/name"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Service charge with Visa fee: 13000/-"
+        android:text="Embassy Fees + VFS Charge + Insurance + Our Service Charge BDT. 14,000/-\nTentative Processing Time 15 Working Days"
         android:textSize="18dp"
         android:layout_marginLeft="15dp"
         android:layout_marginTop="35dp"
@@ -59,7 +59,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/price"
-        android:layout_marginTop="30dp"
+        android:layout_marginTop="80dp"
         >
         <TextView
             android:layout_width="match_parent"

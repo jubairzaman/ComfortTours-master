@@ -47,8 +47,13 @@
         android:layout_below="@+id/name"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Visa fees(1 fees for full family) 175 USD(payable by Bank draft)\nService Charge(Per Applicant Tk 20000/-"
-        android:textSize="18dp"
+        android:text="Total expenditure at a glance regarding visa processing (Non Refundable):\n
+1. Embassy fess--13,550 BDT(Main Applicant)\n
+2. VAC Service Fee:-- 2,300 BDT (Each Applicant)
+Total 15,850/-\n
+Note: Visa fee increase for Others applicant: 3,100 BDT (Sub applicant)
+Our Service charge: 25,000/-"
+        android:textSize="14dp"
         android:layout_marginLeft="15dp"
         android:layout_marginTop="35dp"
         android:textStyle="bold"
@@ -59,7 +64,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/price"
-        android:layout_marginTop="70dp"
+        android:layout_marginTop="30dp"
         >
         <TextView
             android:layout_width="match_parent"

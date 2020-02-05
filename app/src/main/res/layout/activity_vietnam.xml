@@ -47,8 +47,11 @@
         android:layout_below="@+id/name"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Only approval price: 3500 BDT\nSticker visa: 9200 BDT"
-        android:textSize="18dp"
+        android:text="On Arrival Approval Letter BDT. 4,000/-\n
+Vietnam Approval Letter with Sticker from Bangladesh BDT. 9,900/-\n\n
+On Arrival Approval Letter Processing Time 5 to 10 Working Days.\n
+Sticker Visa Processing Time 6 to 13 Working days"
+        android:textSize="12dp"
         android:layout_marginLeft="15dp"
         android:layout_marginTop="35dp"
         android:textStyle="bold"
@@ -59,7 +62,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/price"
-        android:layout_marginTop="80dp"
+        android:layout_marginTop="50dp"
         >
         <TextView
             android:layout_width="match_parent"

@@ -3,6 +3,7 @@
     package="org.bloodbankbd.comforttours">
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
 
     <application
         android:allowBackup="true"
@@ -10,8 +11,11 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme">
-        <activity android:name=".vietnam"></activity>
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true"
+        >
+        <activity android:name=".home" />
+        <activity android:name=".vietnam" />
         <activity android:name=".uk" />
         <activity android:name=".USA" />
         <activity android:name=".turkey" />

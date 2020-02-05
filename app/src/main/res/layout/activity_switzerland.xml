@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/bg1"
+    android:background="@drawable/bgwt"
     tools:context=".switzerland">
 
 
@@ -16,17 +16,59 @@
         android:minHeight="?attr/actionBarSize"
         app:titleTextColor="@color/white" />
 
-    <TextView
-        android:id="@+id/name"
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Switzerland"
-        android:textSize="30dp"
-        android:layout_marginLeft="15dp"
-        android:layout_marginTop="80dp"
-        android:textColor="@color/black"
-        android:textStyle="bold"
-        />
+        android:layout_height="220dp"
+        android:background="@drawable/bg3"
+        android:layout_below="@+id/toolbar1"
+        android:id="@+id/lo1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Switzerland"
+            android:textSize="30dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="25dp"
+            >
+
+            <TextView
+                android:id="@+id/price"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="i. Embassy Fees (60 Euros) BDT. 5,600/- (Changeable)\n
+ii. Our Service Charge BDT.          3,000/-\n
+_________________________________________________\n
+Total BDT.                                        8,600/- (Per Adult)\n\n
+Processing Time: 15 Working days. Some cases take longer.\n\n
+Note That: For Europe Visa You need to Do Travel Insurance. Insurance Price
+Depends on Clients Age and Travel Durations.\n\n
+
+Note: Visa fees are not applicable to children up to the age of 6 years for only Short
+stay visa (C type visa). Visa fee applicable for child between 6 to 12 years is 3395/-
+Taka only for Short stay visa (C-type visa)"
+                android:textSize="12dp"
+                android:layout_margin="15dp"
+                android:textStyle="bold"
+
+                />
+
+
+        </ScrollView>
+
+
+    </LinearLayout>
+
 
     <Button
         android:layout_width="150dp"
@@ -43,29 +85,16 @@
         android:background="@drawable/custom_button2"
         android:textAllCaps="false" />
 
-    <TextView
-        android:id="@+id/price"
-        android:layout_below="@+id/name"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="1. Embassy fess 5,600/-\n2. Our services charge 5,000/-"
-        android:textSize="18dp"
-        android:layout_marginLeft="15dp"
-        android:layout_marginTop="35dp"
-        android:textStyle="bold"
-
-        />
-
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/price"
-        android:layout_marginTop="80dp"
+        android:layout_below="@+id/lo1"
+
         >
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/dtls"
+            android:text="@string/germany"
             android:textSize="15dp"
             android:textColor="@color/black"
             android:layout_marginLeft="15dp"

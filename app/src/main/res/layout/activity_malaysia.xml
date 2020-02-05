@@ -47,7 +47,7 @@
         android:layout_below="@+id/name"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Click The Place Order Button"
+        android:text="Visa fee + our service charge: 6000 BDT"
         android:textSize="18dp"
         android:layout_marginLeft="15dp"
         android:layout_marginTop="35dp"
@@ -59,7 +59,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/price"
-        android:layout_marginTop="100dp"
+        android:layout_marginTop="120dp"
         >
         <TextView
             android:layout_width="match_parent"

@@ -59,12 +59,12 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/price"
-        android:layout_marginTop="100dp"
+        android:layout_marginTop="130dp"
         >
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="1. Passport copy\n2. Visiting card\n3. Pic"
+            android:text="@string/Combodia"
             android:textSize="15dp"
             android:textColor="@color/black"
             android:layout_marginLeft="15dp"

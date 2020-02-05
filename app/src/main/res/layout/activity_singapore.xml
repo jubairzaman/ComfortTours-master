@@ -46,8 +46,9 @@
         android:layout_below="@+id/name"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/Australia_price1"
-        android:textSize="18dp"
+        android:text="Our Visa Fees and Service Charge BDT. 4,500/- (With Invitation Letter)\n
+Our Visa Fees and Service Charge BDT. 4,000/- (Without Invitation Letter)"
+        android:textSize="15dp"
         android:layout_marginLeft="15dp"
         android:layout_marginTop="35dp"
         android:textStyle="bold"
@@ -58,7 +59,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/price"
-        android:layout_marginTop="80dp"
+        android:layout_marginTop="90dp"
         >
         <TextView
             android:layout_width="match_parent"

@@ -47,7 +47,7 @@
         android:layout_below="@+id/name"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Visa fee -4500\nService charge: 5000/- Per Person"
+        android:text="Visa fee: 4500 (Transit visa 96 Hours)\nVisa fee: 8500( Normal tourist visa)\nNote: For normal tourist visa Only required Passport copy with visa copy, Picture and visiting card."
         android:textSize="18dp"
         android:layout_marginLeft="15dp"
         android:layout_marginTop="35dp"
@@ -59,7 +59,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/price"
-        android:layout_marginTop="80dp"
+        android:layout_marginTop="35dp"
         >
         <TextView
             android:layout_width="match_parent"

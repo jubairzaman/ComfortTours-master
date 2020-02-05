@@ -49,7 +49,7 @@
         android:layout_height="wrap_content"
         android:text="Total expenditure at a glance regarding visa processing (Non Refundable):\n
 1. Embassy fees-- 2000/- (Changeable).\n
-2. Our services charge-- 5,000/-\n"
+2. Our services charge-- 3,000/-\n"
         android:textSize="18dp"
         android:layout_marginLeft="15dp"
         android:layout_marginTop="35dp"
@@ -61,7 +61,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/price"
-        android:layout_marginTop="30dp"
+        android:layout_marginTop="40dp"
         >
         <TextView
             android:layout_width="match_parent"

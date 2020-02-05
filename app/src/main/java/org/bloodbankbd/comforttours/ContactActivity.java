@@ -48,9 +48,9 @@ public class ContactActivity extends AppCompatActivity {
 
                             GMailSender sender = new GMailSender(
 
-                                    "techicsdigital@gmail.com",
+                                    "ctourapp@gmail.com",
 
-                                    "techics1234$");
+                                    "CtCt123123");
 
 
 
@@ -66,9 +66,9 @@ public class ContactActivity extends AppCompatActivity {
 
                             sender.sendMail("Good News form App", message,
 
-                                    "techicsdigital@gmail.com",
+                                    "ctourapp@gmail.com",
 
-                                    "jubair.zaman01@gmail.com");
+                                    "apps.comforttours@gmail.com");
 
 
 

@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/bg1"
+    android:background="@drawable/bgwt"
     tools:context=".egypt">
 
     <android.support.v7.widget.Toolbar
@@ -15,17 +15,54 @@
         android:minHeight="?attr/actionBarSize"
         app:titleTextColor="@color/white" />
 
-    <TextView
-        android:id="@+id/name"
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Egypt"
-        android:textSize="30dp"
-        android:layout_marginLeft="15dp"
-        android:layout_marginTop="80dp"
-        android:textColor="@color/black"
-        android:textStyle="bold"
-        />
+        android:layout_height="220dp"
+        android:background="@drawable/bg3"
+        android:layout_below="@+id/toolbar1"
+        android:id="@+id/lo1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Egypt"
+            android:textSize="30dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="25dp"
+            >
+
+            <TextView
+                android:id="@+id/price"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="i. Embassy Fees BDT.            3,300/-\n
+ii. Our Service Charge BDT. 2,500/-\n
+_________________________________\n
+Total BDT.                               5,800/-\n\n
+Processing Time: 5 Working Days.\n
+If Visa Not Done, then You will refund Embassy Fees BDT. 3,300/-"
+                android:textSize="12dp"
+                android:layout_margin="15dp"
+                android:textStyle="bold"
+
+                />
+
+
+        </ScrollView>
+
+
+    </LinearLayout>
+
 
     <Button
         android:layout_width="150dp"
@@ -42,24 +79,12 @@
         android:background="@drawable/custom_button2"
         android:textAllCaps="false" />
 
-    <TextView
-        android:id="@+id/price"
-        android:layout_below="@+id/name"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Our service Charge and visa fee: 5000/-"
-        android:textSize="18dp"
-        android:layout_marginLeft="15dp"
-        android:layout_marginTop="35dp"
-        android:textStyle="bold"
-
-        />
 
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/price"
-        android:layout_marginTop="98dp"
+        android:layout_below="@+id/lo1"
+        android:layout_marginTop="20dp"
         >
         <TextView
             android:layout_width="match_parent"

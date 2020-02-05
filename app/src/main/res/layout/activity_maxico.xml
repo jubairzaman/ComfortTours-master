@@ -49,7 +49,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="1. Embassy fess+ VFS Charge--36 USD/- (Changeable) Payable to VFS\n
-2. Our services charge-- 5,000/- Payable to"
+2. Our services charge-- 3,000/- Payable to"
         android:textSize="18dp"
         android:layout_marginLeft="15dp"
         android:layout_marginTop="35dp"

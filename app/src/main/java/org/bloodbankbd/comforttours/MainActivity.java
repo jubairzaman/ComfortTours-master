@@ -2,6 +2,7 @@ package org.bloodbankbd.comforttours;
 
 import android.content.Intent;
 import android.net.MailTo;
+import android.net.Uri;
 import android.os.Environment;
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
@@ -247,6 +248,19 @@ public class MainActivity extends AppCompatActivity implements android.support.v
     }
 
 
+    public void call(View view) {
+        Intent calint = new Intent(Intent.ACTION_DIAL);
+        calint.setData(Uri.parse("tel:0255048011"));
+        startActivity(calint);
+    }
 
+    public void home(View view) {
+        Intent intent = new Intent(MainActivity.this,home.class);
+        startActivity(intent);
+    }
+
+    public void hs(View view) {
+
+    }
 }
 

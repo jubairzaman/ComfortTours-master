@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Comfort Tours</string>
-    <string name="Australia_price1">Embassy fess 9,040/- \nOur services charge 5,000/-</string>
+    <string name="Australia_price1">Embassy fess 11,600/- \nOur services charge 3,000/-</string>
     <string name="dtls"><b> Requirements:</b>\n\n <b>1.</b>Passport Validity minimum 6 month.\n
 <b>2.</b>Two copy 35mm X 45 mm-size color picture with white backgrounds (no cap or sunglass)\n
 <b>3.</b>Trade license (original and photocopy translated and notarized) as well other relevant business documents.\n
@@ -23,8 +23,152 @@ income if any\n(h) All documents of financial solvency like FDR/ Share
 4. Utility Bill copy\n
 5. Invitation letter with full details of applicant and invitee.\n\n</string>
 
+    <string name="france"><b> Requirements:</b>\n\n <b>1.</b>Passport Validity minimum 6 month.\n
+<b>2.</b>Two copy 35mm X 45 mm-size color picture with white backgrounds (no cap or sunglass)\n
+<b>3.</b>Trade license (original and photocopy translated and notarized) as well other relevant business documents.\n
+<b>4.</b>TIN or Income Tax Certificate\n
+<b>5.</b>Update Bank statement with solvency certificate for the last 12 months(international credit card photocopy if available)\n
+<b>6.</b>Office or student ID card copy Leave letter, joining letter, salary slip last 3 months.\n
+<b>7.</b>If applicant are Government Service holder then need GEO.\n
+<b>8.</b>If applicant are retired person need retirements Document.\n
+<b>9.</b>Flight and Hotel reservation.\n
+<b>10.</b>All previous passports.\n
+<b>11.</b>NID &amp; Birth certificate must be notarized.\n
+<b>12.</b>Passport copy and other identifying information for spouse and children(even if they are not traveling)\n<b>13.</b>Travel Insurance\n\n\n<b>Other supporting document</b>\n\n(a) Tour Program\n(b) Visiting card\n(c)
+Marriage certificate\n(d) Birth certificate of children\n(e) Document of
+properties\n(f) Blue book photocopy of car if any\n(g) Document of other
+income if any\n(h) All documents of financial solvency like FDR/ Share
+        business/ other savings/Security Deposit /Cash investment\n\n\n<b>Invitee Documents: if you have an invitation letter.</b>\n
+1. Passport Copy\n
+2. Visiting Card\n
+3. Bank statement and solvency certificate copy\n
+4. Utility Bill copy\n
+5. Invitation letter with full details of applicant and invitee.\n\n</string>
+
+    <string name="germany"><b> Requirements:</b>\n\n <b>1.</b>Passport Validity minimum 6 month.\n
+<b>2.</b>Two copy 35mm X 45 mm-size color picture with white backgrounds (no cap or sunglass)\n
+<b>3.</b>Trade license (original and photocopy translated and notarized) as well other relevant business documents.\n
+<b>4.</b>TIN or Income Tax Certificate\n
+<b>5.</b>Update Bank statement with solvency certificate for the last 12 months(international credit card photocopy if available)\n
+<b>6.</b>Office or student ID card copy Leave letter, joining letter, salary slip last 3 months.\n
+<b>7.</b>If applicant are Government Service holder then need GEO.\n
+<b>8.</b>If applicant are retired person need retirements Document.\n
+<b>9.</b>Flight and Hotel reservation.\n
+<b>10.</b>All previous passports.\n
+<b>11.</b>NID &amp; Birth certificate must be notarized.\n
+<b>12.</b>Passport copy and other identifying information for spouse and children(even if they are not traveling)\n<b>13.</b>Travel Insurance\n\n\n<b>Other supporting document</b>\n\n(a) Tour Program\n(b) Visiting card\n(c)
+Marriage certificate\n(d) Birth certificate of children\n(e) Document of
+properties\n(f) Blue book photocopy of car if any\n(g) Document of other
+income if any\n(h) All documents of financial solvency like FDR/ Share
+        business/ other savings/Security Deposit /Cash investment\n\n\n<b>Invitee Documents: if you have an invitation letter.</b>\n
+1. Passport Copy\n
+2. Visiting Card\n
+3. Bank statement and solvency certificate copy\n
+4. Utility Bill copy\n
+5. Invitation letter with full details of applicant and invitee.\n\n</string>
+
+
+
+    <string name="usa"><b> Requirements:</b>\n\n <b>1.</b>Passport Validity minimum 6 month.\n
+<b>2.</b>Two copy picture 50x50 mm mate paper (no cap or sunglass)\n
+<b>3.</b>Trade license (original and photocopy translated and notarized) as well other relevant business documents.\n
+<b>4.</b>TIN or Income Tax Certificate\n
+<b>5.</b>Update Bank statement with solvency certificate for the last 12 months(international credit card photocopy if available)\n
+<b>6.</b>Office or student ID card copy Leave letter, joining letter, salary slip last 3 months.\n
+<b>7.</b>If applicant are Government Service holder then need GEO.\n
+<b>8.</b>If applicant are retired person need retirements Document.\n
+<b>9.</b>Flight and Hotel reservation.\n
+<b>10.</b>All previous passports.\n
+<b>11.</b>NID &amp; Birth certificate must be notarized.\n
+<b>12.</b>Passport copy and other identifying information for spouse and children(even if they are not traveling)\n\n\n<b>Other supporting document</b>\n\n(a) Tour Program\n(b) Visiting card\n(c)
+Marriage certificate\n(d) Birth certificate of children\n(e) Document of
+properties\n(f) Blue book photocopy of car if any\n(g) Document of other
+income if any\n(h) All documents of financial solvency like FDR/ Share
+        business/ other savings/Security Deposit /Cash investment\n\n\n<b>Invitee Documents: if you have an invitation letter.</b>\n
+1. Passport Copy\n
+2. Visiting Card\n
+3. Bank statement and solvency certificate copy\n
+4. Utility Bill copy\n
+5. Invitation letter with full details of applicant and invitee.\n\n</string>
+
+    <string name="hongkong"><b> Requirements:</b>\n\n <b>1.</b>Passport Validity minimum 6 month.\n
+<b>2.</b>Two copy 45x45 or 50x50 mm picture with white backgrounds (no cap or sunglass)\n
+<b>3.</b>Trade license (original and photocopy translated and notarized) as well other relevant business documents.\n
+<b>4.</b>TIN or Income Tax Certificate\n
+<b>5.</b>Update Bank statement with solvency certificate for the last 12 months(international credit card photocopy if available)\n
+<b>6.</b>Office or student ID card copy Leave letter, joining letter, salary slip last 3 months.\n
+<b>7.</b>If applicant are Government Service holder then need GEO.\n
+<b>8.</b>If applicant are retired person need retirements Document.\n
+<b>9.</b>Flight and Hotel reservation.\n
+<b>10.</b>All previous passports.\n
+<b>11.</b>NID &amp; Birth certificate must be notarized.\n
+<b>12.</b>Passport copy and other identifying information for spouse and children(even if they are not traveling)\n\n\n<b>Other supporting document</b>\n\n(a) Tour Program\n(b) Visiting card\n(c)
+Marriage certificate\n(d) Birth certificate of children\n(e) Document of
+properties\n(f) Blue book photocopy of car if any\n(g) Document of other
+income if any\n(h) All documents of financial solvency like FDR/ Share
+        business/ other savings/Security Deposit /Cash investment\n\n\n<b>Invitee Documents: if you have an invitation letter.</b>\n
+1. Passport Copy\n
+2. Visiting Card\n
+3. Bank statement and solvency certificate copy\n
+4. Utility Bill copy\n
+5. Invitation letter with full details of applicant and invitee.\n\n</string>
+
+
+    <string name="spain"><b> Requirements:</b>\n\n <b>1.</b>Passport Validity minimum 8 month.\n
+<b>2.</b>Two copy Picture 35x45mm two copy mate paper(no cap or sunglass)\n
+<b>3.</b>Trade license (original and photocopy translated and notarized) as well other relevant business documents.\n
+<b>4.</b>TIN or Income Tax Certificate\n
+<b>5.</b>Update Bank statement with solvency certificate for the last 12 months(international credit card photocopy if available)\n
+<b>6.</b>Office or student ID card copy Leave letter, joining letter, salary slip last 3 months.\n
+<b>7.</b>If applicant are Government Service holder then need GEO.\n
+<b>8.</b>If applicant are retired person need retirements Document.\n
+<b>9.</b>Flight and Hotel reservation.\n
+<b>10.</b>All previous passports.\n
+<b>11.</b>NID &amp; Birth certificate must be notarized.\n
+<b>12.</b>Passport copy and other identifying information for spouse and children(even if they are not traveling)
+        <b>13.</b>Travel Insurance\n\n\n<b>Other supporting document</b>\n\n(a) Tour Program\n(b) Visiting card\n(c)
+Marriage certificate\n(d) Birth certificate of children\n(e) Document of
+properties\n(f) Blue book photocopy of car if any\n(g) Document of other
+income if any\n(h) All documents of financial solvency like FDR/ Share
+        business/ other savings/Security Deposit /Cash investment\n\n\n<b>Invitee Documents: if you have an invitation letter.</b>\n
+1. Passport Copy\n
+2. Visiting Card\n
+3. Bank statement and solvency certificate copy\n
+4. Utility Bill copy\n
+5. Invitation letter with full details of applicant and invitee.\n\n</string>
+
+    <string name="italy"><b> Requirements:</b>\n\n <b>1.</b>Passport Validity minimum 6 month.\n
+<b>2.</b>Two copy 35x40 mm picture with white backgrounds (no cap or sunglass)\n
+<b>3.</b>Trade license (original and photocopy translated and notarized) as well other relevant business documents.\n
+<b>4.</b>TIN or Income Tax Certificate\n
+<b>5.</b>Update Bank statement with solvency certificate for the last 12 months(international credit card photocopy if available)\n
+<b>6.</b>Office or student ID card copy Leave letter, joining letter, salary slip last 3 months.\n
+<b>7.</b>If applicant are Government Service holder then need GEO.\n
+<b>8.</b>If applicant are retired person need retirements Document.\n
+<b>9.</b>Flight and Hotel reservation.\n
+<b>10.</b>All previous passports.\n
+<b>11.</b>NID &amp; Birth certificate must be notarized.\n
+<b>12.</b>Passport copy and other identifying information for spouse and children(even if they are not traveling)
+        <b>13.</b>Travel Insurance\n\n\n<b>Other supporting document</b>\n\n(a) Tour Program\n(b) Visiting card\n(c)
+Marriage certificate\n(d) Birth certificate of children\n(e) Document of
+properties\n(f) Blue book photocopy of car if any\n(g) Document of other
+income if any\n(h) All documents of financial solvency like FDR/ Share
+        business/ other savings/Security Deposit /Cash investment\n\n\n<b>Invitee Documents: if you have an invitation letter.</b>\n
+1. Passport Copy\n
+2. Visiting Card\n
+3. Bank statement and solvency certificate copy\n
+4. Utility Bill copy\n
+5. Invitation letter with full details of applicant and invitee.\n\n</string>
+
+
+
+
+
+
+
 
     <string name="brazil_Dtls">
+        <b> Requirements:</b>\n
         1.One (1) photocopy of all pages and original passport bearing at least six (6) months
 validity.\n
 2.Two (2) photocopies of National ID Card and Birth Certificate Translated &amp; Notarized in
@@ -64,13 +208,15 @@ Thursday.
     </string>
 
     <string name="bhutan">On arrival Visa\nYou just need to purchase air ticket.</string>
-    <string name="brunai">\n\n\n\n1. Validity of Passport’s last 7 Months.\n
+    <string name="brunai">
+        <b> Requirements:</b>\n\n
+        1. Validity of Passport’s last 7 Months.\n
 2. Passport photocopy only information page.\n
 3. Two copies of passport size picture.\n
 4. Brunei air ticket reservation copy &amp; Hotel reservation copy.\n
 5. TIN or Income Tax Certificate (Updated)\n
-6. Utility bill copy. Like, Telephone, Electricity or Gash bill Copy.\n
-7. Official application for Visa. Should be sill &amp; Sign.\n
+6. Utility bill copy. Like, Telephone, Electricity or Gas bill Copy.\n
+7. Official application for Visa. Should be seal &amp; Sign.\n
 8. Company letter head pad.\n
 9. Leave letter &amp; NOC letter from office(if job holder).\n
 10. Solvency certificate from Bank (For single person TK 2,50,000+ / for family TK 5,00,000+)\n
@@ -82,7 +228,9 @@ Thursday.
 16. If businessman (letter head pad 2 copy) for application to embassy.\n
 17. Marriage certificate photo copy with notary public (If family and spouse name not mentioned in)</string>
 
-    <string name="china">1. Validity of Passport’s last 7 Months.\n
+    <string name="china">
+        <b> Requirements:</b>\n
+        1. Validity of Passport’s last 7 Months.\n
 2. Original Passport.\n
 3. Two copies of 33x48 mm size picture.\n
 4. TIN or Income Tax Certificate (Updated)\n
@@ -94,7 +242,9 @@ Thursday.
 10. Visiting Card / Business Card (2 copy)\n
 11. Office ID card / Student ID card (if student) Photo Copy.</string>
 
-    <string name="dubai">1. Duly Filled in Dubai Visa Form.\n
+    <string name="dubai">
+        <b> Requirements:</b>\n
+        1. Duly Filled in Dubai Visa Form.\n
 2. Photocopy of confirmed Return / onward ticket on Emirates Airlines.\n
 3. 6 (Six) Months valid passport.\n
 4. Photocopy of 1st 5 (Five) pages of Passport (3 Set) + Scan/Soft copy
@@ -110,7 +260,9 @@ a) For Any Deportation/ Overstay Charges\n
 b) If Emirates ticket is not utilized then airlines will debit the cost of
 ticket from travel agency account.
     </string>
-    <string name="egypt">1. Validity of Passport’s last 7 Months.\n
+    <string name="egypt">
+        <b> Requirements:</b>\n
+        1. Validity of Passport’s last 7 Months.\n
 2. Passport photocopy only information page.\n
 3. Two copies of passport size picture.\n
 4. Egypt air ticket reservation copy &amp; Hotel reservation copy.\n
@@ -127,7 +279,9 @@ ticket from travel agency account.
 15. Sponsorship Letter for Family Members\n
 16. If businessman (letter head pad 2 copy) for application to embassy.\n
 17. Marriage certificate photo copy with notary public (If family and spouse name not mentioned in)</string>
-    <string name="india">1. International Passport valid for at least 6 months.\n
+    <string name="india">
+        <b> Requirements:</b>\n
+        1. International Passport valid for at least 6 months.\n
 2. Two photos (Background white, Glossy Paper print) 2x2 inc within last 3 months\n
 3. Solvency certificate from Bank (For single person TK 60,000+/ for family TK\n
 1,20,000+) /Dollar endorsement.\n
@@ -146,37 +300,32 @@ mentioned in)\n
 <b>Note: Delivery Time Urgent (5 to 7) working days</b></string>
 
     <string name="japan">
-        Embassy address: Plot # 5 &amp; 7 Dutabash road, Baridhara, Dhaka-1212\n
-Submission Time : 9:00am ~ 11:00am. (Sunday -Thursday)\n
-Interview Time : 8:30am ~ 12:00pm\n
-Passport Return Time : 2:30pm ~ 3:30pm\n
-Contact No. : +88 02-9840010\n
-In person: Needed to be present in person to submit the file also in second and every time\n\n\n\n
+        <b> Requirements:</b>\n
 
         Visa application (filled out in block letters).\n
- Two copy 45 mm X 45 mm size color picture with white backgrounds (no cap or sunglass).\n
- Passport with validity not less than 6 months from the time of application.\n
- All previous passports.\n
- One set of passport photocopy page 1-5 &amp; renewal page if any.\n
- Update Bank statement with solvency certificate for the last 06 months (international credit card
+1. Two copy 45 mm X 45 mm size color picture with white backgrounds (no cap or sunglass).\n
+2. Passport with validity not less than 6 months from the time of application.\n
+3. All previous passports.\n
+4. One set of passport photocopy page 1-5 &amp; renewal page if any.\n
+5. Update Bank statement with solvency certificate for the last 06 months (international credit card
 photocopy if available.\n
- Trade license (original and photocopy translated and notarized) as well other relevant business
+6. Trade license (original and photocopy translated and notarized) as well other relevant business
 documents. (Like membership document, Memorandum, L/C document).\n
- Tax-Income certificate last 3 years\n
- If applicant are Government Service holder then need GEO.\n
- If applicant are retired person need retirements Document.\n
- Flight and Hotel reservation\n
- Passport copy and other identifying information for spouse and children.\n
- Company letter head pad.\n
- Leave letter from the office /institute if employed or student.\n
- Joining Letter, Salary Slip last 3 months, office ID card Photocopy\n
- Invitation letter (if you have a guarantor)\n
- Document certifying or explaining relations to the guarantor (if you have a guarantor)\n
- If the travel expenses are borne by a guarantor living in Japan\n
+7. Tax-Income certificate last 3 years\n
+8. If applicant are Government Service holder then need GEO.\n
+9. If applicant are retired person need retirements Document.\n
+10. Flight and Hotel reservation\n
+11. Passport copy and other identifying information for spouse and children.\n
+12. Company letter head pad.\n
+13. Leave letter from the office /institute if employed or student.\n
+14. Joining Letter, Salary Slip last 3 months, office ID card Photocopy\n
+15. Invitation letter (if you have a guarantor)\n
+16. Document certifying or explaining relations to the guarantor (if you have a guarantor)\n
+17. If the travel expenses are borne by a guarantor living in Japan\n
 (i.) Guarantee letter\n
 (ii) Tax certificate, Bank statement or Income certificate (any one)\n
 (iii) Citizen registration or certificate of foreigner registration and passport copy
- Other supporting document (a) Tour Program (b) Visiting card (c) Marriage certificate (d) Birth
+19. Other supporting document (a) Tour Program (b) Visiting card (c) Marriage certificate (d) Birth
 certificate of children (e) Document of properties (f) Blue book photocopy of car if any (g) Document
 of other income if any (h) All documents of financial solvency like FDR/ Share business/other
 savings/Security deposit /cash investment etc.\n\n\n
@@ -189,7 +338,9 @@ Invitee Documents:\n
 
     </string>
 
-    <string name="malaysia">1. International Passport valid for at least 7 months.\n
+    <string name="malaysia">
+        <b> Requirements:</b>\n
+        1. International Passport valid for at least 7 months.\n
 2. Two passport-size photos (Background white, Matte Paper print) 3.5x5 cm within last 3
 months\n
 3. Solvency certificate from Bank (For single person TK 60,000+/ for family TK 1,20,000+)\n
@@ -213,6 +364,7 @@ For E-visa:
         <b>Note: Delivery Time (6 to 7) working days</b></string>
 
     <string name="maxico">
+        <b> Requirements:</b>\n
         Submission place\nEmbassy of Mexico, C-8, \Benito Juarez Marg\nBlock C,Anand Niketan,New Delhi,\nDelhi 110021, India
 MONDAY TO FRIDAY 8:00 TO 17:00\n\n
         
@@ -245,11 +397,7 @@ Authorities in the country.\n
  Passport should be valid for at least 6 months from the date of travel.\n
     </string>
     <string name="morocco">
-        Submission place: Embassy of the Kingdom of Morocco, House 44, United Nations Rd, Baridhara, Dhaka 6112.\n
-Submission Time: 10:00 hours to 01:00 hours. (Sunday -Thursday)\n
-Delivery Time: (Sunday - Thursday) 10:00 hours – 16:00 hours.\n\n
-In person: Needed to be present in person to submit the file also in second and every Time.\n\n\n
-
+        <b> Requirements:</b>\n
         01. An application/forwarding regarding the detail purpose of visit. For government service holder the Note
 Verbal/Government Order (GO) is required.\n
 02. 2 recent color photos in white background, size: 4/3 cm and clear feature of the face.\n
@@ -272,7 +420,7 @@ by us which are little bit more details than embassy requirements.
     </string>
 
     <string name="mayanmar">
-        
+        <b> Requirements:</b>\n
         1. Validity of Passport’s last 7 Months.\n
 2. Passport photocopy only information page.\n
 3. Two copies of passport size picture.\n
@@ -292,97 +440,69 @@ by us which are little bit more details than embassy requirements.
 17. Marriage certificate photo copy with notary public (If family and spouse name not mentioned in)\n
     </string>
     <string name="newzealand">
-
+<b> Requirements:</b>\n
         <b>Submission in Delhi New Zealand Embassy. No need to send original documents but
 only notarized photocopy. Need to send original passport only after approval of visa
 for pasting the sticker. Total process takes around 1 months. Some cases takes
 longer. No need to go to India or no interview.</b>\n\n\n
         
         
-        1. Copies of all pages of your current &amp; previous passport, including the bio
-data page, alterations page and back page of the passport\n
-One set of visa application form completely filled in with original signature
-of the applicant as per passport.\n
- All Family Members Information (Parents, Siblings, Spouse, Children date
-of birth, Place of birth, current nationality etc)\n
-Two copy 35mm X 45mm size color picture with white backgrounds (no
-cap or sunglass). Wife and Children Picture also (even they are not
-visiting with you)\n
-Office or student ID card, leave letter, salary statement or slip.\n
-Trade license (original and photocopy translated and notarized) as well
-other relevant business documents.(Like membership document,
-Memorandum, L/C Document)\n
-Update Bank statement for the last 6 months (international credit card
+        1.  Passport with validity not less than 6 months from the time of application.\n
+2.   One set of visa application from completely filled in with original signature of the applicant as per
+passport.\n
+3.    Two copy 35mm X 45mm size color picture with white backgrounds (no cap or sunglass)\n
+4.     Leave letter from the office /institute if employed or student.\n
+5.     Trade license (original and photocopy translated and notarized) as well other relevant
+business documents.(Like membership document, Memorandum, L/C document)\n
+6.   Update Bank statement for the last 06 months with solvency certificate (international credit card
 photocopy if available)\n
-Or\n
-Work reference letter stating position, salary, length of employment and leave approval
-from the employer.\n
-Or\n
-If self-employed, provide company registration certificate, recent business tax returns
-with income statement and current account statements\n
-TIN certificates personal &amp; company.\n
-If applicant are Government Service holder then need GEO.\n
- If applicant are retired person need retirements Document.\n
- Flight and Hotel reservation and Tour plan.\n
-Birth Certificate\n
-If applicants are student, then need institute leave letter or calendar, ID
-card copy etc.\n
-
-Passport copy and other identifying information for spouse and children
-(even if they are not traveling)\n
-15.Evidence of funds of at least NZ$1,000 per month for maintenance and
-accommodation, or NZ$400 per month if your accommodation has been
-prepaid. In the form of bank statements, saving books or fixed deposit
-certificates, or
-Completed sponsorship form INZ 1025 if your visit is being sponsored by a
-New Zealand citizen/resident.\n
-16. In case of a New Zealand citizen/resident sponsor, evidence of
-relationship to the sponsor must be provided.\n
-17. Consent letter for child under 17 years old if not accompanied by both
-parents; copy of parents’ ID cards; copy of student’s ID (if applicable).
- Other supporting document (a) Tour Program (b) Visiting card (c)
-Marriage certificate (d) Birth certificate of children (e) Document of
-properties (f) Blue book photocopy of car if any (g) Document of other
-income if any (h) All documents of financial solvency like FDR/ Share
-business/other savings/cash investment etc.
-NB. Pls. If you are intending to stay in New Zealand for more than 6
-months, an e-Medical Chest X-Ray Certificate issued by one of our
-appointed panel physicians
+7.Work reference letter stating position, salary, length of employment and leave approval from the
+employer\n
+8. Evidence of funds of at least NZ$1,000 per month for maintenance and accommodation, or NZ$400 per
+month if your accommodation has been prepaid. In the form of bank statements, saving books or fixed
+deposit certificates.\n
+9.   If applicant are Government Service holder then need GEO.\n
+10.  If applicant are retired person need retirements Document.\n
+11.   Flight and Hotel reservation\n
+12.   Office or student ID card copy, leave letter, joining letter, salary slip.\n
+13.  Passport copy and other identifying information for spouse and children (even if they are not
+traveling)\n
+14.   Other supporting document/n(a) Tour Program\n(b) Visiting card\n(c) Marriage certificate\n(d) Birth
+certificate of children\n(e) Document of properties\n(f) Blue book photocopy of car if any\n(g) Document
+of other income if any\n(h) All documents of financial solvency like FDR/ Share business/other
+savings/Security deposit /cash investment etc.
     </string>
-    <string name="russia">Submission place: You have to submit visa application to Embassy of Russian Federation in Dhaka.
-Bangladesh.
-Address: HOUSE#NE(J)11, ROAD#83, GULSHAN-2, DHAKA-1212.Tel: (8802) 988-48-47.
-Submission Time: MONDAY: from 09-00 a.m. to 12-00 noon.
-TUESDAY: from 09-00 a.m. to 12-00 noon.
-Delivery time: SUNDAY: from 09-30 a.m. to 12-00 noon.
-THURSDAY: from 09-00 a.m. to 12-00 noon.
-In person: All visa applicants should submit their application to the Embassy.
-Interview: Yes, Need to be present in person.
-Total Visa processing time: 22(General) working days. (Some cases take longer).\n\n\n
+    <string name="russia">
+      <b> Requirements:</b>\n
+        a) Duly filled-in Visa Application Form (<a href =" https://bangladesh.mid.ru/samples-and-forms">To Download Click here </a>)
+ Incomplete forms are not
+accepted. The form should be typed or written legibly.\n
+b) One professional passport sized photo (3,5 x 4,5 cm). The photo should be glued
+(not stapled or attached using adhesive tape) to the specially marked place of the
+application form.\n
+c)  Duly filled-in Questionnaire for tourists (<a href =" https://bangladesh.mid.ru/samples-and-forms">To Download Click here </a>)\n
+d) Tourist voucher from a licensed Russian travel agent (original or copy). A tourist
+voucher IS NOT hotel booking. It is issued only by certified Russian travel
+agents. Item “Russian host organization” of the application form must contain the
+name of the said agent and its Reference Number (MBT).\n
+e) Valid Passport and Photo copy of its first two pages. Passport should be valid for
+at least 6 months from the visa expiry date\n
+f) Confirmation of payment for hotel accommodation.\n
 
-    Requirements:\n
- Visa application form (duly filled in and signed by the applicant)\n
- A valid passport (with a Six-months validity on the date of the application)\n
- An original invitation from the local branches of the Russian Home Ministry or Federal Migration
-Service and its copy.\n
- 35X45 mm of the applicant. The photo can be black-and-white or color, preferably on matte
-paper.\n
- Original air tickets or booking confirmation receipt and their copies.\n
- Hotel booking original voucher from hotel.\n
- National ID card or birth certificate photocopy (ID mandatory)\n
- Up to date bank statement with solvency certificate (covers the transactions of the last six
-months)\n
- Office or student ID card copy, leave letter, salary slip, joining letter.\n
- Letter of introduction from the company/employer of the applicant\n
- Trade license (Attested by a Notary Public)\n
- Income tax return / TIN (Attested by a Notary Public).\n
- Other supporting document (a) Tour Program (b) Visiting card (c) Marriage certificate (d) Birth
-certificate of children (e) Document of properties (f) Blue book photocopy of car if any (g)
-Document of other income if any (h) All documents of financial solvency like FDR/ Share
-business/ other savings/Security Deposit/ Cash Investment.</string>
+g) Purchased tickets confirming date of entry to and exit from Russia.\n
+h)  Confirmation of payment of visa fees. \n\n
+<b>Attention!</b>
+
+The Consular Department of the Embassy also has the right to request, if needed, the following :
+i. A bank statement from the applicant
+ii. A statement from the employer regarding the applicants wages for the
+preceding year/ half year, or month
+iii. Documents regarding the applicants ownership of property in the country of
+his citizenship
+iv. A certificate on the makeup of the applicants family</string>
 
     <string name="singapore">
-        
+        <b> Requirements:</b>\n
         1. International Passport valid for at least 7 months.\n
 2. Two passport-size photos (Background white, Matte Paper print) 3.5x4.5 cm within last 3
 months\n
@@ -401,9 +521,9 @@ mentioned in)\n
     </string>
 
     <string name="southkorea">
-
+            <b> Requirements:</b>\n
          Visa application (filled out in block letters).\n
- Two copy 45 mm X 45 mm size color picture with white backgrounds (no cap or sunglass).\n
+ Two copy 35 mm X 45 mm size color picture with white backgrounds (no cap or sunglass).\n
  Passport with validity not less than 6 months from the time of application.\n
  All previous passports.\n
  One set of passport photocopy page 1-5 &amp; renewal page if any.\n
@@ -444,10 +564,11 @@ information sheet is prepared by us which are little bit more details than embas
     </string>
 
     <string name="turkey">
-        <b>All Documents Should Be In English</b>
+        <b> Requirements:</b>\n
+        <b>All Documents Should Be In English</b>\n
 01. Online-visa application form (duly filled in and signed by the applicant\n
 02. A valid passport (with six-month validity on the date of the application)\n
-03. 2 color photographs (2x2 size-mate paper)\n
+03. 3 color photographs (2x2 size-mate paper)\n
 04. Marriage certificate (if a married couple is travelling together) (Attested by a Notary Public)\n
 05. National ID card or birth certificates photocopy (mandatory Notarized)\n
 06. Airline ticket reservation &amp; Hotel reservation Copy.\n
@@ -470,6 +591,7 @@ Invitee Documents:\n
     </string>
 
     <string name="vietnam">
+        <b>Requirements:</b>\n
 
         <b>For on arrival approval documents:</b>\n
 1. Passport information page\n
@@ -477,14 +599,17 @@ Invitee Documents:\n
 3. Pic\n
 4. Others countries visa copy.\n
 
-        <b>For Sticker visa:</b>
-5. Original passport\n
-6. Pic 2 copy\n
-7. Leave letter &amp; NOC letter from office (if job holder).\n
-8. Solvency certificate from Bank (For single person TK 2,50,000+ / for family TK 5,00,000+)\n
-9. Bank Statement (last 6 Months)\n
-10. Trade license photo copy with notary public (Applicable for Businessman)\n
-11. Visiting Card / Business Card (2 copy)\n
-12. Office ID card / Student ID card (if student) Photo Copy.\n
+        <b>For Sticker visa:</b>\n
+1. Original passport\n
+2. Pic 2 copy\n
+3. Solvency certificate from Bank \n
+4. Bank Statement (last 6 Months)\n
+5. Visiting Card / Business Card (2 copy)\n
+6. Office ID card / Student ID card (if student) Photo Copy.\n
+    </string>
+
+    <string name="Combodia">
+        <b>Requirements:</b>\n\n1. Passport copy\n2. Visiting card\n3. Pic
+
     </string>
 </resources>
